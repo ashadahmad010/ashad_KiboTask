@@ -1,0 +1,12 @@
+/Users/apple/Documents/GitHub/ashad_project/src/Kibo.TestingFramework/obj/Debug/net10.0/Kibo.TestingFramework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/GitHub/ashad_project/src/Kibo.TestingFramework/obj/Debug/net10.0/Kibo.TestingFramework.AssemblyInfoInputs.cache
+/Users/apple/Documents/GitHub/ashad_project/src/Kibo.TestingFramework/obj/Debug/net10.0/Kibo.TestingFramework.AssemblyInfo.cs
+/Users/apple/Documents/GitHub/ashad_project/src/Kibo.TestingFramework/obj/Debug/net10.0/Kibo.TestingFramework.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/GitHub/ashad_project/src/Kibo.TestingFramework/obj/Debug/net10.0/Kibo.TestingFramework.sourcelink.json
+/Users/apple/Documents/GitHub/ashad_project/src/Kibo.TestingFramework/bin/Debug/net10.0/Kibo.TestingFramework.deps.json
+/Users/apple/Documents/GitHub/ashad_project/src/Kibo.TestingFramework/bin/Debug/net10.0/Kibo.TestingFramework.dll
+/Users/apple/Documents/GitHub/ashad_project/src/Kibo.TestingFramework/bin/Debug/net10.0/Kibo.TestingFramework.pdb
+/Users/apple/Documents/GitHub/ashad_project/src/Kibo.TestingFramework/obj/Debug/net10.0/Kibo.TestingFramework.dll
+/Users/apple/Documents/GitHub/ashad_project/src/Kibo.TestingFramework/obj/Debug/net10.0/refint/Kibo.TestingFramework.dll
+/Users/apple/Documents/GitHub/ashad_project/src/Kibo.TestingFramework/obj/Debug/net10.0/Kibo.TestingFramework.pdb
+/Users/apple/Documents/GitHub/ashad_project/src/Kibo.TestingFramework/obj/Debug/net10.0/ref/Kibo.TestingFramework.dll
